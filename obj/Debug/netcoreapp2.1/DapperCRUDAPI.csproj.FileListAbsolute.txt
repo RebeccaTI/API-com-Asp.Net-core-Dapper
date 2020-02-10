@@ -1,0 +1,16 @@
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\DapperCRUDAPI.deps.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\DapperCRUDAPI.runtimeconfig.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\DapperCRUDAPI.runtimeconfig.dev.json
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\DapperCRUDAPI.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.csprojAssemblyReference.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.RazorAssemblyInfo.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.RazorAssemblyInfo.cs
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.AssemblyInfoInputs.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.AssemblyInfo.cs
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.RazorTargetAssemblyInfo.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\bin\Debug\netcoreapp2.1\DapperCRUDAPI.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\DapperCRUDAPI\obj\Debug\netcoreapp2.1\DapperCRUDAPI.pdb
